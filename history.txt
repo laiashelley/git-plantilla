@@ -1,0 +1,22 @@
+PS E:\Escritorio\Ironhack\Pruebas\modulo 3\examen-modulo-3-plantillas\plantillas-git-gitbash\planti-git\git-plantilla> git log --oneline
+d293a2d (HEAD -> main, origin/main, origin/HEAD) segundo commit en main
+33e8c93 Add files via upload
+b177db5 Initial commit
+PS E:\Escritorio\Ironhack\Pruebas\modulo 3\examen-modulo-3-plantillas\plantillas-git-gitbash\planti-git\git-plantilla> git log    
+commit d293a2d214fd79cd6a48e1dee1b28826666fb227 (HEAD -> main, origin/main, origin/HEAD)     
+Author: Laia Galvez Bach <101476844+laiashelley@users.noreply.github.com>
+Date:   Thu Oct 17 20:15:08 2024 +0200
+
+    segundo commit en main
+
+commit 33e8c9315c55ac75128a985a5bb31e7e15d915ba
+Author: Laia Galvez Bach <101476844+laiashelley@users.noreply.github.com>
+Date:   Thu Oct 17 20:06:28 2024 +0200
+
+    Add files via upload
+
+commit b177db5409ccb4dbfde6f38e31ebc5991c1cfd27
+Author: Laia Galvez Bach <101476844+laiashelley@users.noreply.github.com>
+Date:   Thu Oct 17 20:05:23 2024 +0200
+
+    Initial commit
